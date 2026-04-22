@@ -253,7 +253,7 @@
   text-decoration-skip-ink: none;
   text-underline-offset: 4px;
 }
-.footer_menu {}
+
 .footer_menu_list {
   list-style: none;
   padding: 0;
@@ -261,9 +261,7 @@
   font-weight: 400;
   font-size: 18px;
 }
-.active {
-  text-decoration: none;
-}
+
 .footer_menu_list a {
   text-decoration-skip-ink: none;
   text-underline-offset: 4px;
